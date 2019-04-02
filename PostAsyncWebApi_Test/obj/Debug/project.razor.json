@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Coding\\ASP.NET-Web-API-with-PostAsync-Example\\PostAsyncWebApi_Test\\PostAsyncWebApi_Test.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
